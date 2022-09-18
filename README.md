@@ -34,6 +34,10 @@
 
 ['iPhone', 'Mac', 'iPad', 'Watch', 'AirPods', 'Music', 'TV']
 
+### Solution
+
+![Solution-2](./Solution-2.png)
+
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
 ### Topics
