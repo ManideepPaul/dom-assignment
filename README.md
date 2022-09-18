@@ -145,6 +145,10 @@
 
 ![Output](./Pic13.png)
 
+### Solution
+
+![Output](./solution-7.png)
+
 8. Webiste Name: [Google](https://www.google.com/)
 
 ### Topics
