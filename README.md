@@ -56,6 +56,10 @@
 
 ![Output](./Pic5.png)
 
+### Solution
+
+![Solution-3](./solution-3.png)
+
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Topics
