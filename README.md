@@ -78,6 +78,10 @@
 
 ![Output](./Pic7.png)
 
+### Solution
+
+![Solution-4](./solution-4.png)
+
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
 ### Topics
