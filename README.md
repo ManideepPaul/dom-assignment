@@ -18,6 +18,10 @@
 
 ![Output](./Pic2.png)
 
+### Solution
+
+![Solution-1](./solution-1.png)
+
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
 ### Task
