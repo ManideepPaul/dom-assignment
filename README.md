@@ -100,6 +100,10 @@
 
 ![Output](./Pic9.png)
 
+### Solution
+
+![Solution](./solution-5.png)
+
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
 ### Topics
@@ -117,6 +121,10 @@
 ### Output
 
 ![Output](./Pic11.png)
+
+### Solution
+
+![Solution](./solution-6.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
